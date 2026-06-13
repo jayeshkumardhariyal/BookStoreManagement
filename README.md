@@ -299,6 +299,15 @@ User Registration
 ---
 
 <h2>📸 Screenshots</h2>
+<p align="center">
+<img src="./screenshots/Login Page.png" width="90%">
+</p>
+
+<p align="center">
+<b>🏠 Login Page</b>
+</p>
+
+<br>
 
 <p align="center">
 <img src="./screenshots/Home Page.png" width="90%">
@@ -311,7 +320,7 @@ User Registration
 <br>
 
 <p align="center">
-<img src="./screenshots/book-details.png" width="90%">
+<img src="./screenshots/User Page.png" width="90%">
 </p>
 
 <p align="center">
@@ -321,7 +330,7 @@ User Registration
 <br>
 
 <p align="center">
-<img src="./screenshots/cart-page.png" width="90%">
+<img src="./screenshots/Cart View.png" width="90%">
 </p>
 
 <p align="center">
@@ -331,11 +340,21 @@ User Registration
 <br>
 
 <p align="center">
-<img src="./screenshots/admin-dashboard.png" width="90%">
+<img src="./screenshots/Admin Portal.png" width="90%">
 </p>
 
 <p align="center">
 <b>🛠️ Admin Dashboard</b>
+</p>
+
+<br>
+
+<p align="center">
+<img src="./screenshots/Order Page.png" width="90%">
+</p>
+
+<p align="center">
+<b>🛠️ Order Page</b>
 </p>
 
 ---

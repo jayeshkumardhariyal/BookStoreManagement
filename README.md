@@ -301,7 +301,7 @@ User Registration
 <h2>📸 Screenshots</h2>
 
 <p align="center">
-<img src="./screenshots/home-page.png" width="90%">
+<img src="./screenshots/Home Page.png" width="90%">
 </p>
 
 <p align="center">

@@ -320,7 +320,7 @@ User Registration
 <br>
 
 <p align="center">
-<img src="./screenshots/User Page.png" width="90%">
+<img src="./screenshots/User page.png" width="90%">
 </p>
 
 <p align="center">
